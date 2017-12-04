@@ -1,1 +1,1 @@
-# Stateless-Wordpress-on-Cloud
+# Cloud-StatelessWordpress
